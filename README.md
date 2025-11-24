@@ -5,7 +5,6 @@
 **Date:** December 2025
 **Program:** St. Clair College – Data Analytics Capstone
 
----
 
 ## Repository Structure
 ```
@@ -24,13 +23,11 @@
 └── README.md
 ```
 
----
 
 ## Overview
 
 Analyze historical Yelp data to identify factors distinguishing successful businesses from those that close. Build predictive models to assess business risk and provide actionable insights via a Tableau dashboard.
 
----
 
 ## Objectives
 
@@ -44,14 +41,12 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * Visualize insights via Tableau dashboard.
 * Provide actionable business recommendations.
 
----
 
 ## Scope
 
 **In-Scope:** Data cleaning, EDA, feature engineering, model development, dashboard creation, reporting.
 **Out-of-Scope:** Real-time deployment, paid data enrichment, third-party proprietary data.
 
----
 
 ## Deliverables
 
@@ -65,7 +60,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 | Presentation              | Week 12    |
 | Final Report              | Week 14    |
 
----
 
 ## Team Roles
 
@@ -78,7 +72,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 | Chinenye Alice  | Feature & Marketing        | Feature creation, marketing strategy        |
 | All Members     | Dashboard Collaboration    | Design & validation of dashboard            |
 
----
 
 ## Tools & Technologies
 
@@ -89,7 +82,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * **Project Management:** Jira, GitHub, Google Drive
 * **Environment:** Google Colab, VSCode
 
----
 
 ## Timeline
 
@@ -103,7 +95,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 | Presentation              | 12    | Slides & demo                                |
 | Final Report              | 14    | Submission                                   |
 
----
 
 ## Risks
 
@@ -113,7 +104,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * Limited computing resources → Google Colab Pro, optimize code
 * GitHub sync issues → Regular commits & backups
 
----
 
 ## Communication
 
@@ -122,7 +112,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * Bi-weekly supervisor meetings
 * Final presentation
 
----
 
 ## Success Criteria
 
@@ -132,7 +121,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * Peer-reviewed deliverables
 * Positive feedback from faculty/stakeholders
 
----
 
 ## Post-Project Evaluation
 
@@ -141,7 +129,6 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * Share dashboard/results online
 * Reflect on skills developed (EDA, ML, visualization)
 
----
 
 ## Appendix
 
