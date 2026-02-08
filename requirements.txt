@@ -1,0 +1,8 @@
+# This file lists the Python dependencies for the project. You can install them using pip:
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+plotly
+scikit-learn

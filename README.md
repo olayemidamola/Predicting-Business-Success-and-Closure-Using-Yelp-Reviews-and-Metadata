@@ -12,15 +12,13 @@
 ├── data/
 │   ├── raw/                ← Raw downloaded data
 │   ├── processed/          ← Cleaned / transformed data   
-├── code/                 ← Data extraction, cleaning, and loading scripts 
-│   ├── data_overview
-│   ├── data_cleaning
-│   ├── data_eda
-│   └── data_engineering
-├── models/                 ← Machine learning models
-├── reports/                ← Final reports / presentations / visualizations  
-├── docs/                   ← Project documentation
+├── notebooks/                 ← Data extraction, cleaning, and loading scripts 
+│   ├── 01_Data_Cleaning.ipynb
+│   ├── 02_EDA_Analysis.ipynb
+│   └── 03_Risk_Scoring_Model.ipynb
+├── output/                ← Final reports / visualizations  
 └── README.md
+└── requirements.txt.     ← Libraries required for project operation
 ```
 
 
@@ -35,9 +33,9 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 * Perform EDA to uncover business and customer patterns.
 * Build models:
 
-  * K-Means clustering (customer/business segmentation)
-  * Recommendation system
+  * Customer Segmentation
   * Sentiment analysis
+  * Merchant Closure Prediction
 * Visualize insights via Tableau dashboard.
 * Provide actionable business recommendations.
 
@@ -90,7 +88,7 @@ Analyze historical Yelp data to identify factors distinguishing successful busin
 | Planning & Setup          | 1–5   | Goals, dataset collection, roles             |
 | Data Preparation          | 6–7   | Cleaning, preprocessing, feature engineering |
 | EDA & Feature Engineering | 8–9   | Insights, features for models                |
-| Model Development         | 8–9   | Clustering, recommendation, sentiment models |
+| Model Development         | 8–9   | Clustering, sentiment models, XGBoost        |
 | Dashboard                 | 10–11 | Tableau visualization                        |
 | Presentation              | 12    | Slides & demo                                |
 | Final Report              | 14    | Submission                                   |
