@@ -17,8 +17,6 @@
 │   ├── data_cleaning
 │   ├── data_eda
 │   └── data_engineering
-├── models/                 ← Machine learning models
-├── reports/                ← Final reports / presentations / visualizations  
 ├── docs/                   ← Project documentation
 └── README.md
 ```
